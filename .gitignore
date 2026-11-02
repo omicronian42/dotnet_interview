@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+*.db
+*.db-shm
+*.db-wal
+TestResults/
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Databricks / Spark local runs
+spark-warehouse/
+metastore_db/
+derby.log
+.ipynb_checkpoints/

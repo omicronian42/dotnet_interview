@@ -1,0 +1,121 @@
+customer_id,name,gstin,city,state,region,created_at
+C001,Saxena Tools & Fasteners Pvt Ltd,36RUNGT8922S1Z2,Hyderabad,Telangana,South,2022-07-01
+C002,Bansal Tools & Fasteners Pvt Ltd,29GEWNJ3100Q1ZD,Bengaluru,Karnataka,South,2023-10-11
+C003,Shah Agencies Pvt Ltd,33AAZAZ2944A1Z2,Chennai,Tamil Nadu,South,2023-03-14
+C004,Mehta Power Solutions LLP,33LCPHA1883R1ZS,Chennai,Tamil Nadu,South,2022-08-18
+C005,Menon Distributors LLP,19SECEX5960J1ZS,Kolkata,West Bengal,East,2023-02-12
+C006,Mehta Tools & Fasteners Pvt Ltd,06KCRLY2306Y1ZK,Gurugram,Haryana,North,2023-06-23
+C007,Verma Engineering Works Pvt Ltd,29SJVAN3331W1ZX,Bengaluru,Karnataka,South,2022-11-16
+C008,Naidu Agencies Co,33HWCPM8877V1ZP,Chennai,Tamil Nadu,South,2022-10-08
+C009,Saxena Agencies Pvt Ltd,27RDHSL9283H1ZT,Mumbai,Maharashtra,West,2023-02-16
+C010,Tiwari Hardware Pvt Ltd,33YEUJC7592X1ZF,Chennai,Tamil Nadu,South,2024-03-25
+C011,Menon Tools & Fasteners LLP,06LNMKD1676V1Z0,Gurugram,Haryana,North,2024-09-25
+C012,Singh Agencies LLP,33TYGAA9855Y1ZW,Chennai,Tamil Nadu,South,2025-04-04
+C013,Kulkarni Electricals Pvt Ltd,08VFDBQ4180G1ZF,Jaipur,Rajasthan,North,2022-06-02
+C014,Gupta Distributors Pvt Ltd,07LMNYL7927Z1ZH,Delhi,Delhi,North,2022-05-02
+C015,Sharma Tools & Fasteners & Co,10QUHTX0886Q1ZZ,Patna,Bihar,East,2024-08-28
+C016,Mishra Enterprises Pvt Ltd,27DUVSY2549T1ZR,Mumbai,Maharashtra,West,2022-08-25
+C017,Kapoor Power Solutions Pvt Ltd,21TFKFZ5580X1ZR,Bhubaneswar,Odisha,East,2023-07-18
+C018,Bansal Industrial Supplies Co,09HTYYR7437T1Z4,Noida,Uttar Pradesh,North,2022-05-10
+C019,Verma Industrial Supplies Co,29CFNDT1227L1ZF,Bengaluru,Karnataka,South,2023-01-31
+C020,Sharma Engineering Works Co,21HNASM4188R1Z2,Bhubaneswar,Odisha,East,2025-04-09
+C021,Sharma Traders Pvt Ltd,08QZMJL1137P1ZU,Jaipur,Rajasthan,North,2022-07-25
+C022,Mishra Distributors Pvt Ltd,03AMENQ5869D1ZQ,Ludhiana,Punjab,North,2024-08-20
+C023,Pillai Electricals Co,19ECZFH7349T1Z9,Kolkata,West Bengal,East,2023-03-10
+C024,Kulkarni Distributors Pvt Ltd,18ALMCF8586Z1ZK,Guwahati,Assam,East,2022-10-07
+C025,Joshi Hardware Pvt Ltd,24NAUDE3122R1ZJ,Ahmedabad,Gujarat,West,2025-01-18
+C026,Mehta Hardware Pvt Ltd,32CQYKC6776L1ZW,Kochi,Kerala,South,2023-04-25
+C027,Naidu Power Solutions Pvt Ltd,29BUXDA8956A1ZG,Bengaluru,Karnataka,South,2024-01-29
+C028,Naidu Enterprises Pvt Ltd,07WWFVC8708A1Z3,Delhi,Delhi,North,2022-07-25
+C029,Tiwari Agencies LLP,33EHMMS8513W1ZC,Chennai,Tamil Nadu,South,2024-11-08
+C030,Banerjee Electricals & Co,24JDWPA3016L1Z9,Ahmedabad,Gujarat,West,2024-10-21
+C031,Khanna Agencies & Co,24HBLMS6829L1ZK,Surat,Gujarat,West,2022-11-24
+C032,Chopra Hardware Co,06YJZAS0994T1Z9,Gurugram,Haryana,North,2023-09-09
+C033,Tiwari Tools & Fasteners Co,27AEYBZ8925J1ZU,Pune,Maharashtra,West,2023-06-18
+C034,Verma Distributors LLP,36YKYXE5779Y1ZE,Hyderabad,Telangana,South,2024-12-05
+C035,Tiwari Enterprises & Co,33CTJUX0458D1ZH,Chennai,Tamil Nadu,South,2022-02-01
+C036,Iyer Hardware Pvt Ltd,06UQYNW9830Y1Z0,Gurugram,Haryana,North,2022-09-21
+C037,Bansal Power Solutions LLP,07LLTWH6893R1ZV,Delhi,Delhi,North,2023-08-31
+C038,Desai Tools & Fasteners Pvt Ltd,32ZSUPR1685P1ZX,Kochi,Kerala,South,2025-01-23
+C039,Khanna Industrial Supplies Pvt Ltd,32VXBTX3382N1ZS,Kochi,Kerala,South,2023-10-11
+C040,Joshi Distributors Pvt Ltd,24JTLSA4366T1ZG,Ahmedabad,Gujarat,West,2024-09-13
+C041,Patel Enterprises Pvt Ltd,33BRVHU2522H1ZC,Chennai,Tamil Nadu,South,2022-05-05
+C042,Agarwal Tools & Fasteners Pvt Ltd,32USHUD2440E1ZW,Kochi,Kerala,South,2022-06-11
+C043,Menon Enterprises & Co,36DVYSS4192X1Z3,Hyderabad,Telangana,South,2022-08-17
+C044,Agarwal Enterprises LLP,36KMZJE9026A1Z1,Hyderabad,Telangana,South,2024-06-16
+C045,Kulkarni Engineering Works Pvt Ltd,21MNHXB5975K1ZS,Bhubaneswar,Odisha,East,2022-10-01
+C046,Gupta Hardware LLP,24PCCHL3860Q1ZJ,Surat,Gujarat,West,2023-04-26
+C047,Bhatia Power Solutions Pvt Ltd,29LJPBA0603H1Z6,Bengaluru,Karnataka,South,2022-06-12
+C048,Shah Distributors & Co,10VVVEF7710T1ZG,Patna,Bihar,East,2023-08-12
+C049,Patel Agencies Co,07TMCJM8478H1ZF,Delhi,Delhi,North,2022-05-08
+C050,Das Industrial Supplies LLP,09HQKBD6846Z1Z7,Noida,Uttar Pradesh,North,2022-10-10
+C051,Agarwal Hardware Pvt Ltd,33PXZMR6778C1ZR,Chennai,Tamil Nadu,South,2023-11-30
+C052,Nair Distributors Pvt Ltd,32LPKKR7031J1Z4,Kochi,Kerala,South,2024-12-31
+C053,Bhatia Enterprises Co,07EBADV3877K1ZD,Delhi,Delhi,North,2022-06-28
+C054,Khanna Enterprises LLP,29TLKRE9754K1ZB,Bengaluru,Karnataka,South,2024-04-04
+C055,Agarwal Electricals Pvt Ltd,29AZYDA3683U1Z9,Bengaluru,Karnataka,South,2022-10-12
+C056,Chopra Industrial Supplies Pvt Ltd,08FJQQF9364P1ZS,Jaipur,Rajasthan,North,2022-03-01
+C057,Singh Hardware Pvt Ltd,27VAYQD2571P1ZH,Mumbai,Maharashtra,West,2022-07-13
+C058,Jain Hardware LLP,07CKWFP5065B1ZY,Delhi,Delhi,North,2022-01-15
+C059,Jain Power Solutions Pvt Ltd,03RWEZX7247S1ZQ,Ludhiana,Punjab,North,2023-07-06
+C060,Nair Industrial Supplies Pvt Ltd,33LUKLA3264F1Z5,Chennai,Tamil Nadu,South,2023-09-29
+C061,Sharma Hardware Co,29BFRJU2997P1Z9,Bengaluru,Karnataka,South,2023-02-07
+C062,Bhatia Electricals Pvt Ltd,19LKBZJ8396S1ZA,Kolkata,West Bengal,East,2024-08-10
+C063,Kiran Hardware Co,09VGCAD2483X1Z2,Noida,Uttar Pradesh,North,2024-05-08
+C064,Desai Agencies Pvt Ltd,03RXMUK6306P1ZS,Ludhiana,Punjab,North,2024-12-02
+C065,Jain Engineering Works Pvt Ltd,29APHMQ4171B1ZV,Bengaluru,Karnataka,South,2024-12-18
+C066,Banerjee Traders Pvt Ltd,27LGLYE2542C1Z1,Mumbai,Maharashtra,West,2024-12-07
+C067,Khanna Tools & Fasteners Pvt Ltd,33QCSVZ0502R1ZB,Chennai,Tamil Nadu,South,2022-09-16
+C068,Naidu Hardware LLP,32WFYTM2550T1ZM,Kochi,Kerala,South,2022-05-20
+C069,Iyer Enterprises Pvt Ltd,27URRLS2299V1ZQ,Pune,Maharashtra,West,2024-10-11
+C070,Patel Power Solutions & Co,24TYXNA9955E1Z7,Ahmedabad,Gujarat,West,2024-11-17
+C071,Mishra Power Solutions & Co,08ZWPYD3022N1ZB,Jaipur,Rajasthan,North,2023-08-30
+C072,Pillai Enterprises & Co,08ULAYY8072K1Z0,Jaipur,Rajasthan,North,2022-08-20
+C073,Desai Enterprises Pvt Ltd,21VFPKJ7695M1Z4,Bhubaneswar,Odisha,East,2025-02-05
+C074,Shah Enterprises Pvt Ltd,10EMNPT2017N1ZE,Patna,Bihar,East,2024-03-29
+C075,Bansal Distributors & Co,18LSFZB2281K1Z2,Guwahati,Assam,East,2024-01-29
+C076,Joshi Engineering Works Pvt Ltd,09SFTQG5083H1ZE,Noida,Uttar Pradesh,North,2024-11-16
+C077,Menon Hardware LLP,29MHYFN1528M1Z6,Bengaluru,Karnataka,South,2024-03-29
+C078,Bhatia Hardware Pvt Ltd,27BVPCH4259F1ZQ,Pune,Maharashtra,West,2024-06-07
+C079,Singh Tools & Fasteners Pvt Ltd,09DWXJT6793E1ZP,Noida,Uttar Pradesh,North,2022-11-26
+C080,Desai Distributors Pvt Ltd,06KJAUR7614Y1ZU,Gurugram,Haryana,North,2022-10-31
+C081,Kiran Hardware Company,09VGCAD2483X1Z2,Noida,Uttar Pradesh,North,2025-03-20
+C082,Reddy Agencies LLP,27UNYAJ2329K1Z4,Mumbai,Maharashtra,West,2022-06-04
+C083,Saxena Electricals LLP,06RKRSZ6275G1ZZ,Gurugram,Haryana,North,2024-06-06
+C084,Patel and Sons Distributors,10MXRVX0244V1ZJ,Patna,Bihar,East,2024-12-10
+C085,Acme Industrial Supplies Pvt Ltd,03YVXKK8133F1ZK,Ludhiana,Punjab,North,2024-04-17
+C086,Kapoor Distributors Pvt Ltd,24YDCXF9760F1ZR,Surat,Gujarat,West,2022-07-23
+C087,Saxena Traders Co,24CHSPF2734A1ZM,Ahmedabad,Gujarat,West,2023-07-29
+C088,Yadav Agencies Co,07LZRJT4520A1ZK,Delhi,Delhi,North,2023-01-22
+C089,Sharma Traders Private Limited,08QZMJL1137P1ZU,Jaipur,Rajasthan,North,2023-04-21
+C090,Jain Industrial Supplies & Co,24LYCYG9420S1Z4,Ahmedabad,Gujarat,West,2024-03-07
+C091,Banerjee Engineering Works Pvt Ltd,27GYHEM7510Q1Z4,Mumbai,Maharashtra,West,2024-04-10
+C092,Shah Electricals & Co,07KYDPA9785U1ZK,Delhi,Delhi,North,2024-08-17
+C093,M/s Bharat Electricals,24YJZDD8349F1Z4,Ahmedabad,Gujarat,West,2023-06-09
+C094,Pillai Industrial Supplies Pvt Ltd,27WSXPP6211H1Z9,Pune,Maharashtra,West,2024-10-31
+C095,Naidu Tools & Fasteners Pvt Ltd,03HAUTR4094T1ZE,Ludhiana,Punjab,North,2024-04-06
+C096,Chopra Enterprises Pvt Ltd,18VXMLZ8665W1ZH,Guwahati,Assam,East,2022-08-18
+C097,Saxena Engineering Works Pvt Ltd,09BGXCF2088T1Z1,Noida,Uttar Pradesh,North,2022-09-17
+C098,Mehta Traders Pvt Ltd,24SGENN1858B1ZK,Ahmedabad,Gujarat,West,2025-01-28
+C099,Tiwari Engineering Works LLP,09TTPDK4628M1ZK,Noida,Uttar Pradesh,North,2024-08-06
+C100,Yadav Power Solutions Pvt Ltd,07UKZZH8617D1ZF,Delhi,Delhi,North,2024-09-22
+C101,Banerjee Industrial Supplies Pvt Ltd,09ANZQC8039W1ZY,Noida,Uttar Pradesh,North,2022-03-11
+C102,Bansal Engineering Works Pvt Ltd,24CLSHM3342L1ZG,Ahmedabad,Gujarat,West,2024-06-16
+C103,Reddy Tools & Fasteners Pvt Ltd,09MCJPF4263F1Z8,Noida,Uttar Pradesh,North,2022-02-10
+C104,Shah Power Solutions Pvt Ltd,08UVFLA5901Z1ZV,Jaipur,Rajasthan,North,2023-06-05
+C105,Pillai Distributors Pvt Ltd,27UEAHJ5568K1ZT,Mumbai,Maharashtra,West,2024-10-26
+C106,Das Power Solutions Pvt Ltd,24CCMGH6059H1ZQ,Surat,Gujarat,West,2022-01-04
+C107,Iyer Agencies Pvt Ltd,09BNZPG2175F1ZC,Noida,Uttar Pradesh,North,2022-02-19
+C108,Das Engineering Works LLP,06QLYGK1281S1ZY,Gurugram,Haryana,North,2024-04-29
+C109,Patel Engineering Works Pvt Ltd,27ANTYL4425H1Z7,Mumbai,Maharashtra,West,2023-11-15
+C110,Naidu Industrial Supplies Co,09TQUYR7511Y1ZP,Noida,Uttar Pradesh,North,2023-10-10
+C111,Patel & Sons Distributors,10MXRVX0244V1ZJ,Patna,Bihar,East,2025-03-20
+C112,Gupta Industrial Supplies Co,29LYCYW9896K1ZX,Bengaluru,Karnataka,South,2023-04-11
+C113,ACME Industrial Supplies Pvt. Ltd.,03YVXKK8133F1ZK,Ludhiana,Punjab,North,2025-01-06
+C114,Desai Engineering Works Pvt Ltd,10HETHD5884N1ZD,Patna,Bihar,East,2024-05-05
+C115,Kapoor Electricals Pvt Ltd,24GBRYU9888U1ZN,Ahmedabad,Gujarat,West,2023-02-10
+C116,Pillai Tools & Fasteners Co,24SSGHH4673F1Z4,Ahmedabad,Gujarat,West,2024-10-18
+C117,Sharma Industrial Supplies Pvt Ltd,18DDHCW4530X1ZL,Guwahati,Assam,East,2025-04-10
+C118,Agarwal Agencies Pvt Ltd,27JRZKC4831C1ZD,Pune,Maharashtra,West,2024-10-04
+C119,Naidu Traders & Co,32XTKWP1989A1ZA,Kochi,Kerala,South,2024-11-29
+C120,Bharat Electricals,24YJZDD8349F1Z4,Ahmedabad,Gujarat,West,2023-12-05

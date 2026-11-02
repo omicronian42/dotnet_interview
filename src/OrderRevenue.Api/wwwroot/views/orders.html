@@ -1,0 +1,44 @@
+<section>
+  <form class="toolbar" ng-submit="vm.search()">
+    <input type="search" ng-model="vm.query.search" placeholder="Search order id or customer" />
+    <button type="submit">Search</button>
+    <span class="muted" ng-if="vm.loading">Loading...</span>
+    <span class="muted" ng-if="!vm.loading">{{ vm.result.total | number }} orders</span>
+  </form>
+
+  <p class="error" ng-if="vm.error">{{ vm.error }}</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Order</th>
+        <th class="sortable" ng-click="vm.sort('customerName')">Customer {{ vm.sortMark('customerName') }}</th>
+        <th class="sortable" ng-click="vm.sort('orderedAtUtc')">Ordered (UTC) {{ vm.sortMark('orderedAtUtc') }}</th>
+        <th>Shipped (UTC)</th>
+        <th class="sortable" ng-click="vm.sort('status')">Status {{ vm.sortMark('status') }}</th>
+        <th class="num">Discount</th>
+        <th class="num sortable" ng-click="vm.sort('orderTotal')">Order total {{ vm.sortMark('orderTotal') }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="o in vm.result.items track by o.customerId">
+        <td>{{ o.orderId }}</td>
+        <td>{{ o.customerName }}</td>
+        <td>{{ o.orderedAtUtc | date:'yyyy-MM-dd HH:mm':'UTC' }}</td>
+        <td>{{ o.shippedAtUtc ? (o.shippedAtUtc | date:'yyyy-MM-dd HH:mm':'UTC') : '-' }}</td>
+        <td><span class="badge badge-{{ o.status | lowercase }}">{{ o.status }}</span></td>
+        <td class="num">{{ o.discountAmount | number:2 }}</td>
+        <td class="num">{{ o.orderTotal | number:2 }}</td>
+      </tr>
+      <tr ng-if="!vm.loading && !vm.result.items.length">
+        <td colspan="7" class="muted">No orders.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="pager">
+    <button ng-click="vm.goTo(vm.query.page - 1)" ng-disabled="vm.query.page <= 1">Prev</button>
+    <span>Page {{ vm.query.page }} of {{ vm.totalPages() }}</span>
+    <button ng-click="vm.goTo(vm.query.page + 1)" ng-disabled="vm.query.page >= vm.totalPages()">Next</button>
+  </div>
+</section>

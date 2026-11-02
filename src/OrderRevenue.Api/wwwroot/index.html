@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="orderRevenue">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Order Revenue</title>
+  <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Order Revenue</h1>
+    <nav ng-controller="NavController as nav">
+      <a href="#!/orders" ng-class="{active: nav.isActive('/orders')}">Orders</a>
+      <a href="#!/summary" ng-class="{active: nav.isActive('/summary')}">Revenue summary</a>
+    </nav>
+  </header>
+
+  <main class="content" ng-view></main>
+
+  <script src="lib/angular.min.js"></script>
+  <script src="lib/angular-route.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/orders.controller.js"></script>
+  <script src="js/summary.controller.js"></script>
+</body>
+</html>

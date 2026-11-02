@@ -1,0 +1,41 @@
+product_id,sku,name,category,list_price
+P001,CAB-001,FR Copper Cable 1.5 sqmm 90m,Cables & Wires,1850.00
+P002,CAB-002,FR Copper Cable 2.5 sqmm 90m,Cables & Wires,2950.00
+P003,CAB-003,FR Copper Cable 4 sqmm 90m,Cables & Wires,4600.00
+P004,CAB-004,Armoured Cable 3C x 16 sqmm (per m),Cables & Wires,640.00
+P005,CAB-005,Flexible Cable 3C x 1.5 sqmm 100m,Cables & Wires,3300.00
+P006,CAB-006,Coaxial Cable RG6 100m,Cables & Wires,2100.00
+P007,CAB-007,Cat6 LAN Cable 305m,Cables & Wires,8200.00
+P008,CAB-008,Conduit Pipe 25mm 3m (bundle of 20),Cables & Wires,1450.00
+P009,SWI-009,MCB 16A SP,Switchgear,285.00
+P010,SWI-010,MCB 32A DP,Switchgear,720.00
+P011,SWI-011,MCB 63A TPN,Switchgear,2650.00
+P012,SWI-012,RCCB 40A 30mA,Switchgear,1850.00
+P013,SWI-013,MCCB 100A 3P,Switchgear,6900.00
+P014,SWI-014,Contactor 25A 3P,Switchgear,1750.00
+P015,SWI-015,Distribution Board 8-way,Switchgear,2450.00
+P016,SWI-016,Isolator 63A 4P,Switchgear,2300.00
+P017,LIG-017,LED Batten 20W,Lighting,340.00
+P018,LIG-018,LED Panel 2x2 36W,Lighting,1150.00
+P019,LIG-019,LED Flood Light 100W,Lighting,1650.00
+P020,LIG-020,LED Street Light 60W,Lighting,3200.00
+P021,LIG-021,LED Bulb 9W (box of 20),Lighting,1250.00
+P022,LIG-022,Emergency Light 6W,Lighting,780.00
+P023,TOO-023,Cordless Drill 12V,Tools,3850.00
+P024,TOO-024,Angle Grinder 4in 850W,Tools,2990.00
+P025,TOO-025,Digital Multimeter,Tools,1450.00
+P026,TOO-026,Wire Stripper Set,Tools,560.00
+P027,TOO-027,Torque Wrench 40-200Nm,Tools,5600.00
+P028,TOO-028,Tool Kit 72pc,Tools,4200.00
+P029,FAS-029,Hex Bolt M10x50 (box of 100),Fasteners,640.00
+P030,FAS-030,Anchor Bolt M12 (box of 50),Fasteners,980.00
+P031,FAS-031,Self Tapping Screw 8x1in (box of 500),Fasteners,420.00
+P032,FAS-032,Nylon Cable Tie 300mm (pack of 100),Fasteners,120.00
+P033,FAS-033,Washer Set M8 (box of 200),Fasteners,260.00
+P034,FAS-034,Rawl Plug 8mm (box of 200),Fasteners,180.00
+P035,SAF-035,Safety Helmet,Safety,340.00
+P036,SAF-036,Safety Shoes Steel Toe,Safety,1450.00
+P037,SAF-037,Insulated Gloves 1.1kV,Safety,1850.00
+P038,SAF-038,Safety Harness Full Body,Safety,2650.00
+P039,SAF-039,Fire Extinguisher ABC 4kg,Safety,2350.00
+P040,SAF-040,Reflective Vest,Safety,190.00

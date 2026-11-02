@@ -1,0 +1,9 @@
+<section>
+  <h2>Revenue summary</h2>
+
+  <p class="muted" ng-if="vm.loading">Loading...</p>
+  <p class="error" ng-if="vm.error">{{ vm.error }}</p>
+
+  <!-- TODO(candidate): replace this with a real view. -->
+  <pre ng-if="vm.summary">{{ vm.summary | json }}</pre>
+</section>
